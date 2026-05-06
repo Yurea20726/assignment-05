@@ -1,7 +1,6 @@
-import os
+def main():
+    print("Hello from assignment-05!")
 
-x=1+2
 
-unused_variable = 123
-
-print(y)
+if __name__ == "__main__":
+    main()
